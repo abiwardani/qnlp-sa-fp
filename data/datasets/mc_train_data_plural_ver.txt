@@ -1,0 +1,70 @@
+1  skillful men prepare sauces
+1  skillful men bake dinners
+1  women cook tasty meals
+1  men prepare meals
+0  skillful women debug programs
+1  women prepare tasty meals
+0  persons run programs
+0  persons run useful applications
+1  women prepare sauces
+1  women prepare dinners
+1  skillful persons prepare meals
+1  skillful persons bake dinners
+1  skillful women bake meals
+0  women run useful applications
+1  men bake tasty meals
+1  persons prepare tasty meals
+0  women run applications
+0  men prepare softwares
+1  men bake tasty dinners
+0  persons prepare useful programs
+0  men debug useful applications
+0  persons debug useful applications
+0  women prepare programs
+0  men prepare useful applications
+1  skillful men cook dinners
+0  men debug useful softwares
+1  persons cook dinners
+1  skillful women prepare meals
+0  men prepare applications
+0  persons debug useful softwares
+0  persons run applications
+1  skillful women bake sauces
+1  skillful men bake meals
+1  women cook meals
+1  women bake dinners
+0  women run programs
+0  skillful men prepare programs
+1  skillful men cook meals
+0  women run softwares
+0  skillful men debug softwares
+1  men cook dinners
+1  women cook tasty dinners
+1  women cook dinners
+1  men bake tasty sauces
+1  men prepare dinners
+1  skillful persons cook sauces
+0  skillful men prepare softwares
+0  persons prepare softwares
+0  persons run softwares
+1  persons prepare tasty sauces
+1  skillful persons bake sauces
+1  skillful men cook sauces
+0  men debug programs
+1  women bake tasty meals
+0  men run softwares
+0  persons prepare useful applications
+1  persons cook meals
+0  women debug softwares
+0  skillful men run softwares
+1  persons bake tasty sauces
+0  women debug applications
+1  persons bake dinners
+0  women debug useful programs
+1  men cook tasty meals
+1  skillful persons cook meals
+1  persons cook sauces
+1  men cook tasty sauces
+0  skillful women run programs
+1  skillful persons bake meals
+0  persons run useful programs

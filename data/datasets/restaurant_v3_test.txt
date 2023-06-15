@@ -1,0 +1,60 @@
+0  I hate the restaurant
+1  I loved the food
+1  I liked the good food
+0  I hated the bland food
+0  I disliked the awful food
+1  I loved the great service
+1  I liked the nice service
+0  I hated the terrible service
+0  I disliked the service
+1  The restaurant was good
+0  The restaurant was bad
+1  The food was great
+0  The food was terrible
+1  The service was good
+0  The service was awful
+1  The restaurant had tasty food
+0  The restaurant had bland food
+1  The restaurant had fast service
+0  The restaurant had slow service
+1  The restaurant cooked good food
+0  The restaurant cooked awful food
+1  The restaurant showed great service
+0  The restaurant showed terrible service
+0  The restaurant was not nice
+1  The restaurant was not bad
+1  The food was not bad
+0  The service was not nice
+1  The service was not terrible
+1  I had great food
+0  I had bad food
+1  I loved the delicious food
+0  I disliked the unappetizing food
+1  I liked the impeccable service
+0  I hated the rude service
+1  I loved the good meals
+0  I hated the unappetizing meals
+0  I disliked the bland meals
+1  I loved the nice meals
+1  I liked the tasty meals
+0  I hated the awful meals
+0  I disliked the terrible meals
+1  I loved the fast staff
+1  I loved the great staff
+1  I liked the impeccable staff
+0  I hated the rude staff
+0  I disliked the slow staff
+0  I disliked the bad staff
+1  The meal was great
+0  The meal was not good
+1  The staff was not rude
+0  The staff was slow
+1  The restaurant had tasty meals
+1  The restaurant had great staff
+0  The restaurant had bad staff
+1  The restaurant cooked delicious meals
+0  The restaurant cooked terrible meals
+0  The restaurant showed awful staff
+1  The meal was not bad
+0  The staff was not great
+0  The restaurant had unappetizing meals

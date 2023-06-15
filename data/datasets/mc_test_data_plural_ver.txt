@@ -1,0 +1,30 @@
+1  women prepare tasty dinners
+1  women cook tasty sauces
+0  skillful women prepare softwares
+1  skillful men prepare dinners
+1  skillful women cook sauces
+0  women run useful programs
+0  skillful persons run softwares
+0  skillful persons prepare programs
+1  men prepare sauces
+1  persons cook tasty sauces
+1  men cook sauces
+0  men prepare programs
+0  skillful persons prepare softwares
+1  women bake meals
+1  skillful men bake sauces
+0  men prepare useful softwares
+0  women debug programs
+0  skillful women run applications
+0  men debug softwares
+0  skillful women debug applications
+0  persons debug softwares
+1  persons bake meals
+1  skillful women bake dinners
+1  skillful women cook dinners
+0  women run useful softwares
+1  men cook meals
+0  persons debug programs
+1  women bake sauces
+0  skillful women debug softwares
+1  women prepare meals

@@ -1,0 +1,30 @@
+1  The restaurant was good
+0  The restaurant was not good
+0  The food was not great
+1  The service was fast
+0  The service was slow
+0  The service was not fast
+1  I had great food
+1  I loved the service
+1  I loved the fast service
+0  I hated the slow service
+1  The restaurant had good food
+1  The restaurant had great service
+1  The restaurant had service that was great
+1  The restaurant had service that was fast
+0  I think the restaurant was terrible
+0  I think the restaurant was not great
+1  I think the food was not bad
+0  I think the food was not good
+0  I think the food was not tasty
+1  I think the service was good
+0  I think the service was slow
+0  I think the service was not fast
+1  I think the restaurant had great food
+0  I think the restaurant had bad food
+1  I think the restaurant had good service
+0  I think the restaurant had terrible service
+1  I think the restaurant had food that was tasty
+1  I think the restaurant had service that was good
+0  I think the restaurant had service that was bad
+0  I think the service was terrible

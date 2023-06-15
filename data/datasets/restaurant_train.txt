@@ -1,0 +1,70 @@
+1  I love the restaurant
+1  The restaurant was great
+0  The restaurant was bad
+0  The restaurant was not great
+1  The food was great
+1  The food was not bad
+0  The food was bad
+0  The food was terrible
+0  The food was not tasty
+1  The service was good
+1  The service was not bad
+0  The service was terrible
+0  The service was not good
+1  I loved the great food
+1  I loved the tasty food
+0  I hated the food
+0  I hated the bad food
+1  I had good food
+1  I had tasty food
+0  I had terrible food
+1  I loved the good service
+0  I hated the service
+0  I hated the terrible service
+1  I had great service
+1  I had fast service
+0  I had bad service
+0  I had terrible service
+1  The restaurant had great food
+0  The restaurant had terrible food
+1  The restaurant had good service
+0  The restaurant had bad service
+0  The restaurant had slow service
+1  The restaurant had food that was great
+1  The restaurant had food that was tasty
+0  The restaurant had food that was bad
+0  The restaurant had food that was terrible
+1  The restaurant had service that was good
+0  The restaurant had service that was bad
+1  I think the restaurant was good
+1  I think the restaurant was great
+0  I think the restaurant was bad
+0  I think the restaurant was not good
+1  I think the food was great
+1  I think the food was tasty
+0  I think the food was bad
+0  I think the food was terrible
+0  I think the food was not great
+1  I think the service was great
+1  I think the service was fast
+1  I think the service was not bad
+0  I think the service was bad
+0  I think the service was not good
+0  I think the service was not great
+1  I think the restaurant had good food
+1  I think the restaurant had tasty food
+0  I think the restaurant had terrible food
+1  I think the restaurant had great service
+1  I think the restaurant had fast service
+0  I think the restaurant had bad service
+1  I think the restaurant had food that was good
+1  I think the restaurant had food that was great
+0  I think the restaurant had food that was bad
+0  I think the restaurant had food that was terrible
+1  I think the restaurant had service that was great
+1  I think the restaurant had service that was fast
+0  I think the restaurant had service that was terrible
+0  I think the restaurant had service that was slow
+1  I love the good restaurant
+1  I love the great restaurant
+0  I hate the bad restaurant

@@ -1,0 +1,170 @@
+1  I love the restaurant
+0  I dislike the restaurant
+1  I loved the great food
+1  I loved the nice food
+1  I loved the tasty food
+1  I liked the food
+1  I liked the great food
+1  I liked the tasty food
+0  I hated the food
+0  I hated the bad food
+0  I hated the terrible food
+0  I disliked the food
+0  I disliked the terrible food
+0  I disliked the bland food
+1  I loved the service
+1  I loved the good service
+1  I loved the fast service
+1  I liked the service
+1  I liked the good service
+1  I liked the fast service
+0  I hated the bad service
+0  I hated the awful service
+0  I hated the slow service
+0  I disliked the terrible service
+0  I disliked the awful service
+0  I disliked the slow service
+1  The restaurant was great
+0  The restaurant was terrible
+0  The restaurant was awful
+1  The food was nice
+1  The food was tasty
+0  The food was bad
+0  The food was bland
+1  The service was nice
+1  The service was fast
+0  The service was bad
+0  The service was slow
+1  The restaurant had good food
+1  The restaurant had great food
+0  The restaurant had bad food
+0  The restaurant had awful food
+1  The restaurant had great service
+1  The restaurant had nice service
+0  The restaurant had bad service
+0  The restaurant had terrible service
+1  The restaurant cooked nice food
+1  The restaurant cooked tasty food
+0  The restaurant cooked bad food
+0  The restaurant cooked terrible food
+0  The restaurant cooked bland food
+1  The restaurant showed good service
+1  The restaurant showed nice service
+0  The restaurant showed awful service
+0  The restaurant showed slow service
+0  The restaurant was not good
+1  The restaurant was not terrible
+1  The restaurant was not awful
+0  The food was not great
+0  The food was not tasty
+1  The food was not awful
+1  The food was not bland
+0  The service was not good
+0  The service was not fast
+1  The service was not bad
+1  The service was not awful
+1  The service was not slow
+1  I had good food
+1  I had tasty food
+0  I had terrible food
+0  I had bland food
+1  I had great service
+1  I had nice service
+1  I had fast service
+0  I had bad service
+0  I had terrible service
+0  I had awful service
+1  I liked the delicious food
+0  I hated the unappetizing food
+1  I loved the impeccable service
+0  I disliked the rude service
+1  The food was delicious
+0  The food was unappetizing
+1  The service was impeccable
+0  The service was rude
+1  The restaurant had delicious food
+0  The restaurant had unappetizing food
+1  The restaurant had impeccable service
+0  The restaurant had rude service
+1  The restaurant cooked delicious food
+0  The restaurant cooked unappetizing food
+1  The restaurant showed impeccable service
+0  The restaurant showed rude service
+1  I loved the great meals
+1  I loved the tasty meals
+1  I loved the delicious meals
+1  I liked the nice meals
+1  I liked the delicious meals
+0  I hated the bad meals
+0  I hated the terrible meals
+0  I hated the bland meals
+0  I disliked the bad meals
+0  I disliked the awful meals
+0  I disliked the unappetizing meals
+1  I loved the good staff
+1  I loved the nice staff
+1  I loved the impeccable staff
+1  I liked the great staff
+1  I liked the nice staff
+1  I liked the fast staff
+0  I hated the terrible staff
+0  I hated the awful staff
+0  I hated the slow staff
+0  I disliked the terrible staff
+0  I disliked the awful staff
+0  I disliked the rude staff
+1  The meal was good
+1  The meal was nice
+1  The meal was delicious
+0  The meal was bad
+0  The meal was terrible
+0  The meal was awful
+0  The meal was bland
+1  The staff was good
+1  The staff was great
+1  The staff was impeccable
+0  The staff was bad
+0  The staff was awful
+0  The staff was rude
+1  The restaurant had good meals
+1  The restaurant had nice meals
+1  The restaurant had delicious meals
+0  The restaurant had terrible meals
+0  The restaurant had awful meals
+0  The restaurant had bland meals
+1  The restaurant had good staff
+1  The restaurant had nice staff
+1  The restaurant had impeccable staff
+0  The restaurant had terrible staff
+0  The restaurant had awful staff
+0  The restaurant had slow staff
+0  The restaurant had rude staff
+1  The restaurant cooked great meals
+1  The restaurant cooked nice meals
+1  The restaurant cooked tasty meals
+0  The restaurant cooked bad meals
+0  The restaurant cooked awful meals
+0  The restaurant cooked bland meals
+1  The restaurant showed good staff
+1  The restaurant showed great staff
+1  The restaurant showed fast staff
+1  The restaurant showed impeccable staff
+0  The restaurant showed bad staff
+0  The restaurant showed terrible staff
+0  The restaurant showed slow staff
+0  The food was not delicious
+1  The food was not unappetizing
+0  The service was not impeccable
+1  The service was not rude
+0  The meal was not great
+0  The meal was not nice
+0  The meal was not tasty
+1  The meal was not terrible
+1  The meal was not bland
+1  The meal was not unappetizing
+0  The staff was not good
+0  The staff was not nice
+0  The staff was not fast
+1  The staff was not bad
+1  The staff was not terrible
+1  The staff was not awful

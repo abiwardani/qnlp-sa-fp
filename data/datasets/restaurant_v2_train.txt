@@ -1,0 +1,76 @@
+1  I love the restaurant
+0  I dislike the restaurant
+1  I loved the great food
+1  I loved the nice food
+1  I loved the tasty food
+1  I liked the food
+1  I liked the great food
+1  I liked the tasty food
+0  I hated the food
+0  I hated the bad food
+0  I hated the terrible food
+0  I disliked the food
+0  I disliked the terrible food
+0  I disliked the bland food
+1  I loved the service
+1  I loved the good service
+1  I loved the fast service
+1  I liked the service
+1  I liked the good service
+1  I liked the fast service
+0  I hated the bad service
+0  I hated the awful service
+0  I hated the slow service
+0  I disliked the terrible service
+0  I disliked the awful service
+0  I disliked the slow service
+1  The restaurant was great
+0  The restaurant was terrible
+0  The restaurant was awful
+1  The food was nice
+1  The food was tasty
+0  The food was bad
+0  The food was bland
+1  The service was nice
+1  The service was fast
+0  The service was bad
+0  The service was slow
+1  The restaurant had good food
+1  The restaurant had great food
+0  The restaurant had bad food
+0  The restaurant had awful food
+1  The restaurant had great service
+1  The restaurant had nice service
+0  The restaurant had bad service
+0  The restaurant had terrible service
+1  The restaurant cooked nice food
+1  The restaurant cooked tasty food
+0  The restaurant cooked bad food
+0  The restaurant cooked terrible food
+0  The restaurant cooked bland food
+1  The restaurant showed good service
+1  The restaurant showed nice service
+0  The restaurant showed awful service
+0  The restaurant showed slow service
+0  The restaurant was not good
+1  The restaurant was not terrible
+1  The restaurant was not awful
+0  The food was not great
+0  The food was not tasty
+1  The food was not awful
+1  The food was not bland
+0  The service was not good
+0  The service was not fast
+1  The service was not bad
+1  The service was not awful
+1  The service was not slow
+1  I had good food
+1  I had tasty food
+0  I had terrible food
+0  I had bland food
+1  I had great service
+1  I had nice service
+1  I had fast service
+0  I had bad service
+0  I had terrible service
+0  I had awful service
