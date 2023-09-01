@@ -1,0 +1,10 @@
+lambeq==0.3.3
+discopy>=1.1.4
+pytket>=0.19.2
+tensornetwork
+torch>=1.12.1
+nltk
+noisyopt
+qiskit
+qiskit-machine-learning
+
