@@ -3,7 +3,7 @@ from sympy.simplify.fu import fu, L, TR9, TR10i, TR11
 from sympy import factor, sin, cos, powsimp, exp
 from sympy import re, im, I, E, Abs, S, conjugate
 from sympy import symbols, Function, lambdify, simplify, preorder_traversal, Float, latex, pprint
-from IPython.display import display
+# from IPython.display import display
 
 class QuantumState:
     def __init__(self, n_qubits, post_select=[]):
@@ -19,7 +19,7 @@ class QuantumState:
 
     def Measure(self, state=""):
         if state == "":
-            state = "0"*n_qubits
+            state = "0"*self.n_qubits
         
         raw = braket(idx_to_vect(state), self.states[-1])#.expand(trig=True).expand()
 
@@ -166,10 +166,10 @@ def conjugate(M):
         for j in range(len(M)):
             if type(res[i][j]) == type(1+1j):
                 res[i][j] = np.conjugate(res[i][j])
-            if type(res[i][j] == e):
-                res[i][j] = e(-res[i][j].args())
-            elif type(-res[i][j] == e):
-                res[i][j] = -e((-res[i][j]).args())
+            if type(res[i][j]) == type(exp(1)):
+                res[i][j] = exp(-res[i][j].args())
+            elif type(-res[i][j]) == type(exp(1)):
+                res[i][j] = -exp((-res[i][j]).args())
 
     return res
 
@@ -246,3 +246,7 @@ def idx_to_vect2(bit_str):
 ket_0 = np.array([1, 0])
 ket_1 = np.array([0, 1])
 H = 1/np.sqrt(2)*np.array([[1, 1], [1, -1]])
+
+qs = QuantumState(4)
+qs.Compose([H, H, H, H])
+print(qs.states[-1])
