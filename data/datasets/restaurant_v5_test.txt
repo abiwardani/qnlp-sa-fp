@@ -99,24 +99,24 @@
 1  I liked the tasty dishes
 0  I hated the awful dishes
 0  I disliked the terrible dishes
-1  I loved the fast waiting
-1  I loved the great waiting
-1  I liked the impeccable waiting
-0  I hated the rude waiting
-0  I disliked the slow waiting
-0  I disliked the bad waiting
+1  I loved the fast waiters
+1  I loved the great waiters
+1  I liked the impeccable waiters
+0  I hated the rude waiters
+0  I disliked the slow waiters
+0  I disliked the bad waiters
 1  The dish was great
 0  The dish was not good
-1  The waiting was not rude
-0  The waiting was slow
+1  The waiters was not rude
+0  The waiters was slow
 1  The cafe had tasty dishes
-1  The cafe had great waiting
-0  The cafe had bad waiting
+1  The cafe had great waiters
+0  The cafe had bad waiters
 1  The cafe cooked delicious dishes
 0  The cafe cooked terrible dishes
-0  The cafe showed awful waiting
+0  The cafe showed awful waiters
 1  The dish was not bad
-0  The waiting was not great
+0  The waiters was not great
 0  The cafe had unappetizing dishes
 1  I liked the amazing food
 1  The restaurant was amazing
@@ -142,10 +142,10 @@
 1  The cooking was excellent
 1  The cafe showed excellent foodservice
 1  I had excellent cooking
-1  I loved the excellent waiting
+1  I loved the excellent waiters
 1  The dish was excellent
-1  The cafe had excellent waiting
-0  The waiting was not excellent
+1  The cafe had excellent waiters
+0  The waiters was not excellent
 0  The restaurant was horrible
 1  The restaurant was not horrible
 1  The food was not horrible
@@ -157,8 +157,8 @@
 1  The cafe was not horrible
 1  The cooking was not horrible
 0  I had horrible cooking
-0  I disliked the horrible waiting
-0  The cafe had horrible waiting
+0  I disliked the horrible waiters
+0  The cafe had horrible waiters
 1  The dish was not horrible
 0  I disliked the lousy food
 0  The service was lousy
@@ -169,7 +169,7 @@
 0  The foodservice was lousy
 0  The cafe cooked lousy cooking
 0  I hated the lousy dishes
-0  The cafe showed lousy waiting
+0  The cafe showed lousy waiters
 1  The restaurant had yummy food
 1  I liked the yummy meals
 1  The restaurant had yummy meals
@@ -185,10 +185,10 @@
 1  The restaurant had kind service
 1  I loved the kind staff
 1  The cafe had kind foodservice
-1  I loved the kind waiting
+1  I loved the kind waiters
 0  The restaurant had poor service
 0  I disliked the poor staff
 0  The staff was poor
 0  The cafe had poor foodservice
-0  I disliked the poor waiting
-0  The waiting was poor
+0  I disliked the poor waiters
+0  The waiters was poor

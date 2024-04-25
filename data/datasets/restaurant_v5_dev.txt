@@ -78,26 +78,26 @@
 1  I like the cafe
 1  I had nice cooking
 0  The cafe was not great
-0  The waiting was not impeccable
+0  The waiters was not impeccable
 0  The dish was not delicious
-0  The cafe showed rude waiting
+0  The cafe showed rude waiters
 0  The cafe cooked unappetizing dishes
 1  The cafe cooked good dishes
-1  The cafe showed nice waiting
+1  The cafe showed nice waiters
 1  The cafe had great dishes
-1  The waiting was fast
+1  The waiters was fast
 1  I loved the nice dishes
 1  I liked the great dishes
 0  The dish was unappetizing
-1  The waiting was nice
-0  The waiting was terrible
+1  The waiters was nice
+0  The waiters was terrible
 0  The cafe had bad dishes
-1  The waiting was not slow
+1  The waiters was not slow
 1  The dish was not awful
 1  The dish was tasty
-1  I liked the good waiting
-0  I hated the bad waiting
-1  The cafe had fast waiting
+1  I liked the good waiters
+0  I hated the bad waiters
+1  The cafe had fast waiters
 1  I had amazing service
 0  The food was not amazing
 1  The restaurant had amazing service
@@ -111,7 +111,7 @@
 1  The cooking was amazing
 1  I loved the amazing cooking
 1  The cafe cooked amazing dishes
-1  I liked the amazing waiting
+1  I liked the amazing waiters
 0  The service was not excellent
 1  The restaurant cooked excellent food
 1  The service was excellent
@@ -135,7 +135,7 @@
 0  I disliked the horrible foodservice
 0  I disliked the horrible cooking
 0  The cafe had horrible dishes
-0  I hated the horrible waiting
+0  I hated the horrible waiters
 0  I had lousy food
 0  The restaurant had lousy service
 0  The food was lousy
@@ -152,9 +152,9 @@
 1  The staff was kind
 1  The restaurant had kind staff
 1  The cafe showed kind foodservice
-1  The waiting was kind
-1  The cafe had kind waiting
+1  The waiters was kind
+1  The cafe had kind waiters
 0  I had poor service
 1  The staff was not poor
 0  I had poor foodservice
-1  The waiting was not poor
+1  The waiters was not poor
