@@ -1,1 +1,2 @@
 experiment name,dataset,gate layers,no. variable layers,a,c,no. iterations,nouns parameterized,fit time,train acc,test acc
+v5_H_CRx_2iter_with_nouns,restaurant_v5,"['H', 'Rx']",1,0.2,0.06,2,True,545.3980803489685,0.48214285714285715,0.5515463917525774
